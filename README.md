@@ -1,13 +1,17 @@
 # golang-gui
+Original Video for this is here:
+https://www.youtube.com/watch?v=9bDN2rrf-Pw&t=790s
+
+Original Repository for this code:
+https://github.com/devhulk/golang-gui
 
 Main item is to show the use of script. The commands are mainly pulled straight out of the original bash script menu.sh
 
 github.com/bitfield/script
 
-THis is an awesome tool for running command line apps.
+This is an awesome tool for running command line apps.
 
-Not saying the original was bad, but
-I did alter the original golang program
+Not saying the original by 'devhulk' code was bad at all, it's fantastic. I just put my spin on it. :)
 ## Removed Functions:
 ### bytesToGB
 replaced by go package humanize.
